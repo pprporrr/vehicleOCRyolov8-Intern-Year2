@@ -1,0 +1,7 @@
+train: /Users/ppr/Desktop/Project/Intern-Year2_3/datasets/train
+val: /Users/ppr/Desktop/Project/Intern-Year2_3/datasets/val
+test: /Users/ppr/Desktop/Project/Intern-Year2_3/datasets/test
+
+nc: 54
+
+names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'ก', 'ข', 'ฃ', 'ค', 'ฅ', 'ฆ', 'ง', 'จ', 'ฉ', 'ช',  'ซ', 'ฌ', 'ญ', 'ฎ', 'ฏ', 'ฐ', 'ฑ', 'ฒ', 'ณ', 'ด', 'ต', 'ถ', 'ท', 'ธ', 'น', 'บ', 'ป', 'ผ', 'ฝ', 'พ', 'ฟ', 'ภ', 'ม', 'ย', 'ร', 'ล', 'ว', 'ศ', 'ษ', 'ส', 'ห', 'ฬ', 'อ', 'ฮ']
